@@ -1,0 +1,6 @@
+echo "Value of \$0 is $0"
+echo "Value of \$1 is $1"
+echo "Value of \$2 is $2"
+echo "Value of \$3 is $3"
+echo "Value of \$* is $*"
+echo "Value of \$# is $#"
